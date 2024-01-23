@@ -1,3 +1,11 @@
+## For this popplrt need to be installed 
+
+
+## I was facing issue with poppler so I decided to use PyPDF2 and it is in main.py
+
+
+
+
 from dotenv import load_dotenv
 import streamlit as st
 import google.generativeai as genai
